@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=JeungEun%20Han&fontSize=60&fontAlign=26)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=header&text=Cindy%20Han&fontSize=60&fontAlign=26)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpano1215%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -14,11 +14,11 @@
 - Hanwha System ICT &nbsp;<sub>(2021.11 ~ 2022.02)<br>
 
 ### 🧑🏻‍💻 Education
-- Ewha Chain, Blockchain Association &nbsp;<sub>(2022.07~2023.12)<br>
+- 00 Chain, Blockchain Association &nbsp;<sub>(2022.07~2023.12)<br>
 - Focused Training Program for Young Talents in Innovative Growth at Ministry of Science and ICT &nbsp;<sub>(2021.04 - 2021.11)<br>
-- Bachelor's degree in History at Ewha University &nbsp;<sub>(2018.03 - 2022.02)<br>
-- Double Majored in Entrepreneurship at Ewha University &nbsp;<sub>(2018.03 - 2022.02)<br>
-- Minored in Humanities Technology at Ewha University &nbsp;<sub>(2018.03 - 2022.02)<br>
+- Bachelor's degree in History at 00 University &nbsp;<sub>(2018.03 - 2022.02)<br>
+- Double Majored in Entrepreneurship at 00 University &nbsp;<sub>(2018.03 - 2022.02)<br>
+- Minored in Humanities Technology at 00 University &nbsp;<sub>(2018.03 - 2022.02)<br>
 
 ### 🔮 Award
 - Special Award : Traffic Data Utilization Competition at Ministry of Land, Infrastructure and Transport &nbsp;<sub>(2019.08)<br>
