@@ -24,7 +24,7 @@
 - Special Award : Traffic Data Utilization Competition at Ministry of Land, Infrastructure and Transport &nbsp;<sub>(2019.08)<br>
 Trash Collection Route Optimization Strategy for Environmental Sanitation Workers</sub>
 - Final Round : KPMG Global Ideaton at KPMG &nbsp;<sub>(2021.02)<br>
-Crowding Information Providing App Service</sub>
+Crowding Information Providing App Service<br>
 patent application number : 10-2021-0007335</sub>
 - Second Prize : World Invention Award at CIIS &nbsp;<sub>(2019.06)<br>
 Disaster Evacuation Cane Railroad for the Visually Impaired</sub>
